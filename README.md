@@ -1,4 +1,4 @@
-### Event and Seating Organization System
+# Event and Seating Organization System
 
 ## Overview
 
